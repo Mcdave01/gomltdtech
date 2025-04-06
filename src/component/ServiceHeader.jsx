@@ -36,7 +36,7 @@ const ServiceHeader = () => {
           
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="text-center p-4 z-10">
-              <h3 className="text-xl font-bold mb-2">24/7</h3>
+              <h3 className="text-[60px] font-bold mb-2 ">24/7</h3>
               <p className="text-sm">Security Monitoring</p>
             </div>
           </div>
