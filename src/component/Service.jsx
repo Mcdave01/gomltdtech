@@ -13,7 +13,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import React from 'react'; // Added missing React import
 
 // Phone number for WhatsApp - replace with your actual number
-const WHATSAPP_NUMBER = "1234567890"; // Replace with your number including country code
+const WHATSAPP_NUMBER = "+2348169767255"; // Replace with your number including country code
 
 // Enhanced ServiceData with additional security services and gadget sales
 const ServiceData = [
