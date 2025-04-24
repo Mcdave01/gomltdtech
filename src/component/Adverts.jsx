@@ -22,16 +22,17 @@ const Adverts = () => {
   ];
 
   return (
-    <section className="flex flex-col py-12 bg-gray-100">
-      <div className="container mx-auto px-4 sm:px-6">
-        <h2 className="text-3xl font-bold text-center mb-8">Our Services</h2>
-        <div className="grid grid-cols-1  md:grid-cols-3 gap-8">
+  
+      <section className="py-16 bg-gray-100">
+      <div className="container px-4 mx-auto">
+        <h2 className="mb-12 text-3xl font-bold text-center text-orange" >Our Services</h2>
+        <div className="grid grid-cols-1 gap-8 sm:grid-cols-1 sm:h-auto lg:grid-cols-3">
           {adverts.map((advert, index) => (
             <div key={index} className="bg-white shadow-lg h-auto rounded-lg overflow-hidden">
               <img
                 src={advert.image}
                 alt={advert.title}
-                className="w-full  bg-cover h-[300px]"
+                className="flex w-full  bg-cover h-[400px]"
               />
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-4">{advert.title}</h3>
