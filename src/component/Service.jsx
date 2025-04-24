@@ -89,7 +89,7 @@ const Service = () => {
   };
   
   return (
-    <section className="flex flex-col justify-center w-full gap-10 p-5 mt-10 bg-gray-dark"> 
+    <section className="flex flex-col justify-center w-full gap-4 p-5 mt-10 bg-gray-dark"> 
       {/* Service Header */}
       <div className="flex w-full gap-8">
         <div className="ml-5 w-20 h-1 mt-4 bg-orange sm:w-24"></div>

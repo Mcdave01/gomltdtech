@@ -15,7 +15,7 @@ const Home = () => {
       <Nav />
       <main className="flex flex-col gap-8">
         <Hero />
-        <Service />
+        <Service/>
         <Enquiry />
         <Adverts />
         <Portfolio />
@@ -23,9 +23,10 @@ const Home = () => {
         {/* <Testimonies /> */}
         {/* <Team /> */}
         <CCTVGadgetAdvert />
-      </main>
+      
       <WhatsApp />
       <Footer />
+      </main>
     </div>
   )
 }
