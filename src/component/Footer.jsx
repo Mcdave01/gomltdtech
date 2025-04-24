@@ -33,6 +33,7 @@ const Footer=() => {
               </Typography>
               <ul className="space-y-1 text-white">
                 {links.map((link, key) => (
+                  <li key="key">
                   <Typography key={key} as="li" color="blue-gray" className="flex font-normal text-white justify-left">
                     <a
                       href="#"
@@ -41,6 +42,7 @@ const Footer=() => {
                       {link}
                     </a>
                   </Typography>
+                  </li>
                 ))}
               </ul>
             </div>
