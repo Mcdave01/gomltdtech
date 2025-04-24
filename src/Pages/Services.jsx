@@ -3,7 +3,7 @@ import Nav from '../component/Nav'
 import Service from '../component/Service'
 const Services = () => {
   return (
-    <div>
+    <div className="w-full overflow-x-hidden">
         <Nav />
       <ServiceHeader/>
       <Service />
