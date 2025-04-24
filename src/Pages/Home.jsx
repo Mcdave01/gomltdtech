@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <div className="w-full overflow-x-hidden">
       <Nav />
-      <main className="flex flex-col gap-8">
+      <main className="flex flex-col gap-4">
         <Hero />
         <Service/>
         <Enquiry />
