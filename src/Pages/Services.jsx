@@ -1,5 +1,6 @@
 import  ServiceHeader from '../component/ServiceHeader'
 import Nav from '../component/Nav'
+import Footer from '../component/Footer'
 import Service from '../component/Service'
 const Services = () => {
   return (
@@ -7,6 +8,7 @@ const Services = () => {
         <Nav />
       <ServiceHeader/>
       <Service />
+      <Footer />
     </div>
   )
 }
