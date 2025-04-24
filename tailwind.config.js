@@ -44,7 +44,11 @@ export default withMT( {
       '2xl': '1536px',
       // => @media (min-width: 1536px) { ... }
     },
-    extend: {},
+    extend: {
+      'translate':'100%',
+      '0':'0%'
+
+    },
   },
   plugins: [],
 })
