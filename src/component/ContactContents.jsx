@@ -182,7 +182,7 @@ function ContactContents() {
                 <div className="w-full h-64 bg-gray-200 rounded-md overflow-hidden">
                   <iframe
                     title="GOMLTD Location"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.30599379525!2d-74.25986548248684!3d40.69714941057504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1682531949890!5m2!1sen!2s"
+                    src="https://www.google.com/maps/place/CLASSIC+SYSTEMS+INFOTECH/@7.4888717,4.521181,13.81z/data=!4m7!1m2!2m1!1sclassic+systems+info+techno+30+mayfair+ile-ife+osun+state!3m3!1s0x1038375c7d081f9d:0x39d89e6f11e142c4!15sCjljbGFzc2ljIHN5c3RlbXMgaW5mbyB0ZWNobm8gMzAgbWF5ZmFpciBpbGUtaWZlIG9zdW4gc3RhdGVaOyI5Y2xhc3NpYyBzeXN0ZW1zIGluZm8gdGVjaG5vIDMwIG1heWZhaXIgaWxlIGlmZSBvc3VuIHN0YXRlkgEhZWxlY3RyaWNhbF9hbmRfZWxlY3Ryb25pY3Nfc3RvcmVzqgF2EAEqEiIOaW5mbyB0ZWNobm8gMzAoADIfEAEiG2sKoqXsdXZCxsFsRLAOemhK3S7uEdImCPbuBDI9EAIiOWNsYXNzaWMgc3lzdGVtcyBpbmZvIHRlY2hubyAzMCBtYXlmYWlyIGlsZSBpZmUgb3N1biBzdGF0ZeABAA!16s%2Fg%2F11y1kp4kgp?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
